@@ -6,7 +6,7 @@ If no custom MAC is provided, it generates a random valid MAC address with a rea
 
 ⚙️ Usage
 -------------------------------------------------------------------------------------
-python3 mac_changer.py -i <interface> [-m <new_mac>]
+python3 mac_changer.py -i <interface>  [-m <new_mac>]
 ----------------------------------------------------------------------------------
 -i or --interface: (required) The network interface to change the MAC address on.
 
